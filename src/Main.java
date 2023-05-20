@@ -1,4 +1,7 @@
 class Main {
+    public double test (String test){
+        return 0;
+    }
     public void printerSum(){
         System.out.println(sum());
     }
